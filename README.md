@@ -12,6 +12,17 @@ The other sketches, the transmitter have a button that is pushed, and the receiv
 5 Different technologies are used:  
 LoRa (915Mhz), ESP8266 Wifi MESH (2.4ghz), nRF24L01 (2.4ghz), Moteino RFM12B (915mhz), FS1000A (ASK 433mhz).  
 
+## More Resources
+
+RFM12B https://www.sparkfun.com/products/retired/12031  
+nRF24L01 http://www.lydiard.plus.com/nrf24l01_1.htm  
+Moteino Leo (Boards I have) - https://lowpowerlab.com/2013/04/24/moteino-leo-atmega32u4-based-moteino/  
+ESP8266 Mesh Networking (painlessMesh) - https://github.com/gmag11/painlessMesh  
+LoRa - There is a lot of information about LoRa - but don't confuse it with   LoRaWAN they really are two very different things.  
+Some General Information can be found here: https://www.seeedstudio.com/RFM95-Ultra-long-Range-Transceiver-Module%2FLoRa-Module%2Fsupport-868M-frequency-p-2807.html  
+FS1000A - There is also a lot of information about these - here is the library I used - https://github.com/madsci1016/Arduino-EasyTransfer  
+Some more information, they are now using RadioHead Library but otherwise the information is good: https://microcontrollerelectronics.com/fs1000a-wireless-rf433-transmit-and-receive-module-pair/  
+
 
 ## Contributing
 

@@ -1,0 +1,10 @@
+Easy Transfer Virtual Wire Library: (OLD Library, but it works)
+https://github.com/madsci1016/Arduino-EasyTransfer
+http://www.billporter.info/2011/05/30/easytransfer-arduino-library/
+
+Requires Virtual Wire Library (Which is also a old library, but works)
+https://www.pjrc.com/teensy/td_libs_VirtualWire.html
+
+Untested but a modern library is Radio Head which does support the FS1000A devices
+https://microcontrollerelectronics.com/fs1000a-wireless-rf433-transmit-and-receive-module-pair/
+
